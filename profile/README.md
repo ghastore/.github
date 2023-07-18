@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Actions store for GitHub.
 
 ## Sources
