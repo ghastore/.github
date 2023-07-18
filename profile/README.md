@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-Store for GitHub Actions.
+Actions store for GitHub.
 
-## Mirrors
+## Sources
 
-- [GitLab](https://gitlab.com/ghastore)
-- [Codeberg](https://codeberg.org/ghastore)
-- [MosHub](https://hub.mos.ru/ghastore)
-- [Git.Org.Ru](https://git.org.ru/ghastore)
+- [**GitHub**](https://github.com/ghastore)
+- [GitLab](https://gitlab.com/ghastore) (MIRROR)
+- [Codeberg](https://codeberg.org/ghastore) (MIRROR)
+- [Disroot](https://git.disroot.org/ghastore) (MIRROR)
+- [MosHub](https://hub.mos.ru/ghastore) (MIRROR)
+- [Git.Org.Ru](https://git.org.ru/ghastore) (MIRROR)
